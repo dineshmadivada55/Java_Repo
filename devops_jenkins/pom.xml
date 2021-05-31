@@ -4,7 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>devopsGid</groupId>
 	<artifactId>devops_jenkins</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<version>1.1</version>
 	<name>Test</name>
 	<url>http://maven.apache.org</url>
 
