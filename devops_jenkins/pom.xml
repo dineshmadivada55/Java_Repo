@@ -5,6 +5,7 @@
 	<groupId>devopsGid</groupId>
 	<artifactId>devops_jenkins</artifactId>
 	<version>1.2</version>
+	<packaging> jar</packaging>
 	<name>Test</name>
 	<url>http://maven.apache.org</url>
 
